@@ -16,7 +16,7 @@ x|x
 x|x
 
 ## Adding Embadded Immage
-![embadded Immage]@(/gitHubCat.PNG)
+![embadded Immage](/gitHubCat.PNG)
 
 *This ReadME file created as Demo by*
 **Fuad Hadad**
