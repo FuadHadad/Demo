@@ -9,6 +9,13 @@
 2. more details about part 1.2
 3. ...
 
+## Creating a table
+col A | col B
+------|------
+x|x
+x|x
+
+## Adding Embadded Immage
 
 
 *This ReadME file created as Demo by*
