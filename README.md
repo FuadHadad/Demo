@@ -15,7 +15,7 @@ col A | col B
 x|x
 x|x
 
-## Adding Embadded Immage
+## Adding Embadded Image
 ![embadded Immage](/gitHubCat.PNG)
 
 *This ReadME file created as Demo by*
